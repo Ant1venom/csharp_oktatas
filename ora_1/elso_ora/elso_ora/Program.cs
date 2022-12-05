@@ -7,19 +7,17 @@ namespace elso_ora
     {
         static void Main(string[] args)
         {
-            int max = 1000000000;
-            int prev = 0;
+            const int max = 1000000000;
+            var prev = 0;
             for (int i = 0; i < max; i++)
             {
                 var newClass = new SomeClass();
                 SomeClass newClass2 = new();
-                if (SomeClass.NumberOfClasses < prev)
-                {
-                    break;
-                }
+                SomeClass newClass3 = new SomeClass();
+                
+                if (SomeClass.NumberOfClasses < prev) break;
                 prev = SomeClass.NumberOfClasses;
             }
-
             Console.WriteLine(SomeClass.NumberOfClasses);
         }
     }
