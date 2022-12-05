@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33027.164
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "elso_ora", "elso_ora\elso_ora.csproj", "{4FF0A5E5-49F6-4B05-BB0F-2395100411A0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "masodik_ora", "masodik_ora\masodik_ora.csproj", "{4FF0A5E5-49F6-4B05-BB0F-2395100411A0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

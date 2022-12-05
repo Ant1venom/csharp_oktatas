@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bota.daniel\\Desktop\\csharp_oktatas\\ora_1\\elso_ora\\elso_ora\\elso_ora.csproj",
-      "projectName": "elso_ora",
-      "projectPath": "C:\\Users\\bota.daniel\\Desktop\\csharp_oktatas\\ora_1\\elso_ora\\elso_ora\\elso_ora.csproj",
+      "projectUniqueName": "C:\\Users\\bota.daniel\\Desktop\\csharp_oktatas\\ora_1\\elso_ora\\masodik_ora\\masodik_ora.csproj",
+      "projectName": "masodik_ora",
+      "projectPath": "C:\\Users\\bota.daniel\\Desktop\\csharp_oktatas\\ora_1\\elso_ora\\masodik_ora\\masodik_ora.csproj",
       "packagesPath": "C:\\Users\\bota.daniel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bota.daniel\\Desktop\\csharp_oktatas\\ora_1\\elso_ora\\elso_ora\\obj\\",
+      "outputPath": "C:\\Users\\bota.daniel\\Desktop\\csharp_oktatas\\ora_1\\elso_ora\\masodik_ora\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
