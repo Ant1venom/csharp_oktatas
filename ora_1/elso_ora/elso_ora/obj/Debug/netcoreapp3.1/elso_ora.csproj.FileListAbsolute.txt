@@ -1,0 +1,14 @@
+C:\Users\bota.daniel\Desktop\c# oktatás\ora_1\elso_ora\elso_ora\bin\Debug\netcoreapp3.1\elso_ora.exe
+C:\Users\bota.daniel\Desktop\c# oktatás\ora_1\elso_ora\elso_ora\bin\Debug\netcoreapp3.1\elso_ora.deps.json
+C:\Users\bota.daniel\Desktop\c# oktatás\ora_1\elso_ora\elso_ora\bin\Debug\netcoreapp3.1\elso_ora.runtimeconfig.json
+C:\Users\bota.daniel\Desktop\c# oktatás\ora_1\elso_ora\elso_ora\bin\Debug\netcoreapp3.1\elso_ora.runtimeconfig.dev.json
+C:\Users\bota.daniel\Desktop\c# oktatás\ora_1\elso_ora\elso_ora\bin\Debug\netcoreapp3.1\elso_ora.dll
+C:\Users\bota.daniel\Desktop\c# oktatás\ora_1\elso_ora\elso_ora\bin\Debug\netcoreapp3.1\elso_ora.pdb
+C:\Users\bota.daniel\Desktop\c# oktatás\ora_1\elso_ora\elso_ora\obj\Debug\netcoreapp3.1\elso_ora.csproj.AssemblyReference.cache
+C:\Users\bota.daniel\Desktop\c# oktatás\ora_1\elso_ora\elso_ora\obj\Debug\netcoreapp3.1\elso_ora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bota.daniel\Desktop\c# oktatás\ora_1\elso_ora\elso_ora\obj\Debug\netcoreapp3.1\elso_ora.AssemblyInfoInputs.cache
+C:\Users\bota.daniel\Desktop\c# oktatás\ora_1\elso_ora\elso_ora\obj\Debug\netcoreapp3.1\elso_ora.AssemblyInfo.cs
+C:\Users\bota.daniel\Desktop\c# oktatás\ora_1\elso_ora\elso_ora\obj\Debug\netcoreapp3.1\elso_ora.csproj.CoreCompileInputs.cache
+C:\Users\bota.daniel\Desktop\c# oktatás\ora_1\elso_ora\elso_ora\obj\Debug\netcoreapp3.1\elso_ora.dll
+C:\Users\bota.daniel\Desktop\c# oktatás\ora_1\elso_ora\elso_ora\obj\Debug\netcoreapp3.1\elso_ora.pdb
+C:\Users\bota.daniel\Desktop\c# oktatás\ora_1\elso_ora\elso_ora\obj\Debug\netcoreapp3.1\elso_ora.genruntimeconfig.cache
